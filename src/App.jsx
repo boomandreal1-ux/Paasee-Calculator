@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div className="w-full justify-center"> <Paasee></Paasee> </div>
+      <div className="w-full justify-center"> <Paasee /> </div>
     </>
   )
 }
